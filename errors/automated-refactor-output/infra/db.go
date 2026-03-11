@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ricardogrande-masmovil/go-learning/errors/automated_refactor_output/domain"
+	"github.com/ricardogrande-masmovil/go-learning/errors/automated-refactor-output/domain"
 )
 
 // FindUser simulates a database lookup.

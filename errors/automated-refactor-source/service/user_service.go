@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ricardogrande-masmovil/go-learning/errors/automated_refactor_source/domain"
-	"github.com/ricardogrande-masmovil/go-learning/errors/automated_refactor_source/infra"
+	"github.com/ricardogrande-masmovil/go-learning/errors/automated-refactor-source/domain"
+	"github.com/ricardogrande-masmovil/go-learning/errors/automated-refactor-source/infra"
 )
 
 // GetUserProfile simulates a domain service layer coordinating data retrieval.

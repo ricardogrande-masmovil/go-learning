@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ricardogrande-masmovil/go-learning/errors/automated_refactor_source/service"
+	"github.com/ricardogrande-masmovil/go-learning/errors/automated-refactor-source/service"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ricardogrande-masmovil/go-learning/errors/automated_refactor_output/domain"
-	"github.com/ricardogrande-masmovil/go-learning/errors/automated_refactor_output/service"
+	"github.com/ricardogrande-masmovil/go-learning/errors/automated-refactor-output/domain"
+	"github.com/ricardogrande-masmovil/go-learning/errors/automated-refactor-output/service"
 )
 
 func main() {
